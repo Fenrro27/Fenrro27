@@ -46,7 +46,7 @@ Estoy organizando mi portafolio, por lo que **poco a poco irán llegando nuevos 
 
 ### 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fenrro27&show_icons=true&theme=radium&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenrro27)](https://github.com/anuraghazra/github-readme-stats)   
 
 ---
 
